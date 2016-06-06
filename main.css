@@ -5,7 +5,8 @@ html body{
 
 }
 
-header{
+header h1{
+    margin-left: 30px;
 }
 
 header nav{
@@ -21,4 +22,19 @@ header nav div{
 header .row{
     display: flex;
     align-items: center;
+}
+
+.jumbotron{
+    background-image: url("https://ouradventuresphotography.files.wordpress.com/2016/04/img_3698.jpg?w=1000&h=&crop=1");
+    background-size: 100%;
+
+}
+
+.jumbotron .container .row.text-center h2{
+    margin-top: -15px;
+}
+
+.jumbotron .btn{
+    margin-top: 50px;
+    margin-bottom: 100px;
 }
