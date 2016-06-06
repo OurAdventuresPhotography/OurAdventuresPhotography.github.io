@@ -2,7 +2,6 @@ html body{
     font-family: 'Raleway',sans-serif;
     font-size: 16px;
     background-image: url("http://i.imgur.com/UEvnvBl.jpg");
-
 }
 
 header h1{
@@ -16,7 +15,6 @@ header nav{
 
 header nav div{
     margin: auto;
-
 }
 
 header .row{
@@ -27,7 +25,6 @@ header .row{
 .jumbotron{
     background-image: url("https://ouradventuresphotography.files.wordpress.com/2016/04/img_3698.jpg?w=1000&h=&crop=1");
     background-size: 100%;
-
 }
 
 .jumbotron .container .row.text-center h2{
