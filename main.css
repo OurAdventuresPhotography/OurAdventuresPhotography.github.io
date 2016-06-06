@@ -1,6 +1,11 @@
 html body{
-    font-family: sans-serif;
+    font-family: 'Raleway',sans-serif;
     font-size: 16px;
+    background-image: url("http://i.imgur.com/UEvnvBl.jpg");
+
+}
+
+header{
 }
 
 header nav{
