@@ -1,0 +1,19 @@
+html body{
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+header nav{
+    display: flex;
+    justify-content: flex-end;
+}
+
+header nav div{
+    margin: auto;
+
+}
+
+header .row{
+    display: flex;
+    align-items: center;
+}
