@@ -68,3 +68,21 @@ div img{
 #seeMoreBtn{
     margin-top: 40px;
 }
+
+.navPick{
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 15%;
+    background-color: #F8D1A6;
+    text-decoration: underline;
+    font-size: 1.4em;
+}
+
+#aboutUs{
+    font-size: 4rem;
+    margin-top: 160px;
+    border: 2px solid black;
+    padding: 35px;
+    font-family: 'Indie Flower';
+    font-weight: 700;
+}
