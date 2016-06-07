@@ -27,6 +27,14 @@ header .row{
     align-items: center;
 }
 
+#oapButton{
+    color: black
+}
+
+#oapButton:hover{
+    color: #2C7BB2;
+}
+
 .jumbotron{
     background-image: url("https://ouradventuresphotography.files.wordpress.com/2016/04/img_3698.jpg?w=1000&h=&crop=1");
     background-size: 100%;
@@ -48,6 +56,11 @@ header .row{
     margin-top: -25px;
 }
 
+.mult img{
+    padding-bottom: 40px;
+}
+
 div img{
     max-width: 100%;
+
 }
