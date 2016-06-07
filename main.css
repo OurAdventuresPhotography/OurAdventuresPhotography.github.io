@@ -86,3 +86,16 @@ div img{
     font-family: 'Indie Flower';
     font-weight: 700;
 }
+
+div .row.centerList{
+    margin-left: 275px;
+    font-size: 3rem;
+}
+
+footer{
+    margin-top: 5px;
+}
+
+#footerXSpace{
+    margin-top: 25px;
+}
